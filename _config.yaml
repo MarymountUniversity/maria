@@ -1,14 +1,14 @@
 # site properties and page defaults
-title: Lab Website Template
-subtitle: by the Greene Lab
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+title: MARIA
+subtitle: : Marymount Applied Research in Artificial Intelligence
+description: Research Lab at Marymount for al things AI, NLP, ML and Data Science
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@your-lab.com
+  email: nathan.greenen@marymount.edu
   orcid: 0000-0001-8713-9213
   google-scholar: ETJoidYAAAAJ
   github: your-lab
