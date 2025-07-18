@@ -2,6 +2,7 @@
 name: Andy Hall
 image: images/andy-hall.jpg
 role: Principal Investigator
+affiliation: Marymount University
 group: faculty
 links:
   google-scholar: EA7pS0wAAAAJ
