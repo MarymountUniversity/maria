@@ -137,6 +137,6 @@
   issue: 5
   pages: 13-22
   address: Evansville, IN, USA
-  type: article-journal
+  type: article
   plugin: sources.py
   file: sources.yaml
