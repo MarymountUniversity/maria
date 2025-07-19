@@ -1,7 +1,7 @@
 ---
 ---
 
-# MarymountUniversity's Website
+# Welcome to MARIA
 
 Our goal is to support academic scholarship, mentor students, and increase Marymount's external visibility in applied AI research through collaboration between students, faculty, and across schools. 
 

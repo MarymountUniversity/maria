@@ -1,3 +1,19 @@
-- id: doi:10.1109/FIE61694.2024.10893172
-  type: paper
-  group: featured
+- id: issn: 1937-4771
+  title: Sentiment and Topic Modeling Analysis of Reddit Posts on Changing One's Major
+  authors:
+    - Nathan Green
+    - Karen Works
+  publisher: Consortium for Computing Sciences in Colleges
+  date: 2023-11-01
+  container-title: Journal of Computing Sciences in Colleges
+  volume: 39
+  issue: 5
+  pages: 13-22
+  abstract: >
+    Producing professional, responsible alumni is a primary mission of all institutions of higher education.
+    Hence it is important to support students in their progress towards this goal, particularly when they consider
+    changing their major. This research aims to evaluate the sentiment and topics used in Reddit posts on changing
+    one's major. By looking at the commonalities in these posts, we can better understand the questions and concerns
+    of students changing their majors.
+  address: Evansville, IN, USA
+  type: article-journal
