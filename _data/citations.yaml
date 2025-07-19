@@ -1,5 +1,129 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1201/9781003396307-5
+  title: Military Workforce Planning and Modeling
+  authors:
+  - Nathaniel D. Bastian
+  - Andrew O. Hall
+  publisher: Handbook of Military and Defense Operations Research
+  date: '2024-06-27'
+  link: https://doi.org/g9tpzf
+  orcid: 0000-0002-8083-806X
+  plugin: orcid.py
+  file: orcid-andy.yaml
+- id: doi:10.1109/FIE49875.2021.9637127
+  title: Integrating Andragogy Theory into a Multidisciplinary Curriculum to Achieve
+    a Connected Program for a Doctorate in Cybersecurity
+  authors:
+  - Andrew Hall
+  - Xiang Michelle Liu
+  - Diane Murphy
+  publisher: 2021 IEEE Frontiers in Education Conference (FIE)
+  date: '2021-10-13'
+  link: https://doi.org/g9tpzg
+  orcid: 0000-0002-8083-806X
+  plugin: orcid.py
+  file: orcid-andy.yaml
+- id: doi:10.1016/j.omega.2019.102171
+  title: 'Models and methods for workforce planning under uncertainty: Optimizing
+    U.S. Army cyber branch readiness and manning'
+  authors:
+  - Nathaniel D. Bastian
+  - Brian J. Lunday
+  - Christopher B. Fisher
+  - Andrew O. Hall
+  publisher: Omega
+  date: '2020-04-01'
+  link: https://doi.org/g9tpzh
+  orcid: 0000-0002-8083-806X
+  plugin: orcid.py
+  file: orcid-andy.yaml
+- id: doi:10.23919/CyCon49761.2020.9131714
+  title: Recent Developments in Cryptography
+  authors:
+  - Lubjana Beshaj
+  - Andrew O. Hall
+  publisher: 2020 12th International Conference on Cyber Conflict (CyCon)
+  date: '2020-05-01'
+  link: https://doi.org/ghzjsc
+  orcid: 0000-0002-8083-806X
+  plugin: orcid.py
+  file: orcid-andy.yaml
+- id: doi:10.1109/MC.2018.2884190
+  title: Educating Future Multidisciplinary Cybersecurity Teams
+  authors:
+  - Jean R.S. Blair
+  - Andrew O. Hall
+  - Edward Sobiesk
+  publisher: Computer
+  date: '2019-03-01'
+  link: https://doi.org/ghns4q
+  orcid: 0000-0002-8083-806X
+  plugin: orcid.py
+  file: orcid-andy.yaml
+- id: doi:10.1109/WSC40007.2019.9004837
+  title: "Solving The Army\u2019s Cyber Workforce Planning Problem Using Stochastic\
+    \ Optimization and Discrete-Event Simulation Modeling"
+  authors:
+  - Nathaniel D. Bastian
+  - Christopher B. Fisher
+  - Andrew O. Hall
+  - Brian J. Lunday
+  publisher: 2019 Winter Simulation Conference (WSC)
+  date: '2019-12-01'
+  link: https://doi.org/gn8nbq
+  orcid: 0000-0002-8083-806X
+  plugin: orcid.py
+  file: orcid-andy.yaml
+- id: doi:10.1111/j.1740-9713.2019.01314.x
+  title: The Variance Gamma Distribution
+  authors:
+  - Scott Nestler
+  - Andrew Hall
+  publisher: Significance
+  date: '2019-10-01'
+  link: https://doi.org/g9tpzj
+  orcid: 0000-0002-8083-806X
+  plugin: orcid.py
+  file: orcid-andy.yaml
+- id: doi:10.2139/ssrn.3299798
+  title: Gradient Estimation and Mountain Range Options
+  authors:
+  - Andrew O. Hall
+  - Michael Fu
+  publisher: SSRN Electronic Journal
+  date: '2018-01-01'
+  link: https://doi.org/g9tpzk
+  orcid: 0000-0002-8083-806X
+  plugin: orcid.py
+  file: orcid-andy.yaml
+- id: doi:10.1007/s11590-015-0947-7
+  title: Optimal Army officer force profiles
+  authors:
+  - Andrew O. Hall
+  - Michael C. Fu
+  publisher: Optimization Letters
+  date: '2015-10-01'
+  link: https://doi.org/f7xv37
+  orcid: 0000-0002-8083-806X
+  plugin: orcid.py
+  file: orcid-andy.yaml
+- id: doi:10.1007/978-0-387-77780-1_9
+  title: Comparison of Heuristics for Solving the Gmlst Problem
+  authors:
+  - Yiwei Chen
+  - Namrata Cornick
+  - Andrew O. Hall
+  - Ritvik Shajpal
+  - John Silberholz
+  - Inbal Yahav
+  - Bruce L. Golden
+  publisher: Operations Research/Computer Science Interfaces
+  date: ''
+  link: https://doi.org/fm6tv8
+  orcid: 0000-0002-8083-806X
+  plugin: orcid.py
+  file: orcid-andy.yaml
 - id: issn:1937-4771
   title: ISSN 1937-4771 (Print) | Journal of computing sciences in colleges | The
     ISSN Portal
@@ -122,130 +246,6 @@
   date: '2004-04-24'
   link: https://doi.org/d5dgq7
   orcid: 0000-0002-5312-1426
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1201/9781003396307-5
-  title: Military Workforce Planning and Modeling
-  authors:
-  - Nathaniel D. Bastian
-  - Andrew O. Hall
-  publisher: Handbook of Military and Defense Operations Research
-  date: '2024-06-27'
-  link: https://doi.org/g9tpzf
-  orcid: 0000-0002-8083-806X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1109/FIE49875.2021.9637127
-  title: Integrating Andragogy Theory into a Multidisciplinary Curriculum to Achieve
-    a Connected Program for a Doctorate in Cybersecurity
-  authors:
-  - Andrew Hall
-  - Xiang Michelle Liu
-  - Diane Murphy
-  publisher: 2021 IEEE Frontiers in Education Conference (FIE)
-  date: '2021-10-13'
-  link: https://doi.org/g9tpzg
-  orcid: 0000-0002-8083-806X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.omega.2019.102171
-  title: 'Models and methods for workforce planning under uncertainty: Optimizing
-    U.S. Army cyber branch readiness and manning'
-  authors:
-  - Nathaniel D. Bastian
-  - Brian J. Lunday
-  - Christopher B. Fisher
-  - Andrew O. Hall
-  publisher: Omega
-  date: '2020-04-01'
-  link: https://doi.org/g9tpzh
-  orcid: 0000-0002-8083-806X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.23919/CyCon49761.2020.9131714
-  title: Recent Developments in Cryptography
-  authors:
-  - Lubjana Beshaj
-  - Andrew O. Hall
-  publisher: 2020 12th International Conference on Cyber Conflict (CyCon)
-  date: '2020-05-01'
-  link: https://doi.org/ghzjsc
-  orcid: 0000-0002-8083-806X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1109/MC.2018.2884190
-  title: Educating Future Multidisciplinary Cybersecurity Teams
-  authors:
-  - Jean R.S. Blair
-  - Andrew O. Hall
-  - Edward Sobiesk
-  publisher: Computer
-  date: '2019-03-01'
-  link: https://doi.org/ghns4q
-  orcid: 0000-0002-8083-806X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1109/WSC40007.2019.9004837
-  title: "Solving The Army\u2019s Cyber Workforce Planning Problem Using Stochastic\
-    \ Optimization and Discrete-Event Simulation Modeling"
-  authors:
-  - Nathaniel D. Bastian
-  - Christopher B. Fisher
-  - Andrew O. Hall
-  - Brian J. Lunday
-  publisher: 2019 Winter Simulation Conference (WSC)
-  date: '2019-12-01'
-  link: https://doi.org/gn8nbq
-  orcid: 0000-0002-8083-806X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1111/j.1740-9713.2019.01314.x
-  title: The Variance Gamma Distribution
-  authors:
-  - Scott Nestler
-  - Andrew Hall
-  publisher: Significance
-  date: '2019-10-01'
-  link: https://doi.org/g9tpzj
-  orcid: 0000-0002-8083-806X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.2139/ssrn.3299798
-  title: Gradient Estimation and Mountain Range Options
-  authors:
-  - Andrew O. Hall
-  - Michael Fu
-  publisher: SSRN Electronic Journal
-  date: '2018-01-01'
-  link: https://doi.org/g9tpzk
-  orcid: 0000-0002-8083-806X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1007/s11590-015-0947-7
-  title: Optimal Army officer force profiles
-  authors:
-  - Andrew O. Hall
-  - Michael C. Fu
-  publisher: Optimization Letters
-  date: '2015-10-01'
-  link: https://doi.org/f7xv37
-  orcid: 0000-0002-8083-806X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1007/978-0-387-77780-1_9
-  title: Comparison of Heuristics for Solving the Gmlst Problem
-  authors:
-  - Yiwei Chen
-  - Namrata Cornick
-  - Andrew O. Hall
-  - Ritvik Shajpal
-  - John Silberholz
-  - Inbal Yahav
-  - Bruce L. Golden
-  publisher: Operations Research/Computer Science Interfaces
-  date: ''
-  link: https://doi.org/fm6tv8
-  orcid: 0000-0002-8083-806X
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/FIE61694.2024.10893172
