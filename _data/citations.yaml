@@ -136,5 +136,6 @@
   date: '2024-10-13'
   link: https://doi.org/g9tppw
   type: paper
+  group: featured
   plugin: sources.py
   file: sources.yaml
