@@ -235,6 +235,20 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1109/FIE61694.2024.10893172
+  title: Forging New Paths in Cybersecurity Doctoral Research with Open Datasets and
+    Synthetic Data Generation
+  authors:
+  - Michelle Liu
+  - Nathan Green
+  - Diane Murphy
+  - Donna Schaeffer
+  publisher: 2024 IEEE Frontiers in Education Conference (FIE)
+  date: '2024-10-13'
+  link: https://doi.org/g9tppw
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
