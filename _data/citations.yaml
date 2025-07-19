@@ -124,19 +124,17 @@
   orcid: 0000-0002-5312-1426
   plugin: orcid.py
   file: orcid.yaml
-- id: abs:10.5555/3637068.3637069
-  title: Sentiment and Topic Modeling Analysis of Reddit Posts on Changing One's Major
+- id: doi:10.1109/FIE61694.2024.10893172
+  title: Forging New Paths in Cybersecurity Doctoral Research with Open Datasets and
+    Synthetic Data Generation
   authors:
+  - Michelle Liu
   - Nathan Green
-  - Karen Works
-  publisher: Consortium for Computing Sciences in Colleges
-  date: '2023-11-01'
-  link: http://genome.crg.es/datasets/abs2005/entries/10.5555/3637068.3637069.html
-  container-title: Journal of Computing Sciences in Colleges
-  volume: 39
-  issue: 5
-  pages: 13-22
-  address: Evansville, IN, USA
-  type: article
+  - Diane Murphy
+  - Donna Schaeffer
+  publisher: 2024 IEEE Frontiers in Education Conference (FIE)
+  date: '2024-10-13'
+  link: https://doi.org/g9tppw
+  type: paper
   plugin: sources.py
   file: sources.yaml
