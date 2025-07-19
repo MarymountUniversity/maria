@@ -3,7 +3,7 @@
 
 # MarymountUniversity's Website
 
-An engaging 1-3 sentence description of your lab.
+Advance applied research in artificial intelligence, machine learning, natural language processing, and data science in an interdisciplinary lab. The lab’s goal is to support academic scholarship, mentor students, and increase Marymount’s external visibility in applied AI research through collaboration between students, faculty, and across schools. Through collaboration, the lab will build a reusable and extensible knowledge base of datasets, tools, and code to be use for applied AI scholarship and program support. 
 
 {% include section.html %}
 
