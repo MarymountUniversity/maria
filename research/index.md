@@ -14,7 +14,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Forging New Paths in Cybersecurity Doctoral Research with Open Datasets and Synthetic Data Generation" style="rich" %}
 
 {% include section.html %}
 
