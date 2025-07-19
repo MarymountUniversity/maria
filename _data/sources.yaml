@@ -1,3 +1,5 @@
+- id: doi: 10.1109/FIE61694.2024.10893172
+  type: paper
 - id: doi:10.1371/journal.pcbi.1007128
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

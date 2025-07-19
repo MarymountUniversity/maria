@@ -1,7 +1,7 @@
 ---
 name: Nathan Green
 image: images/nathan-green.jpg
-role: Principal Investigator
+role: principal-investigator
 group: faculty
 affiliation: Marymount University
 aliases:

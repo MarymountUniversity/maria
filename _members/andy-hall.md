@@ -1,7 +1,7 @@
 ---
 name: Andy Hall
 image: images/andy-hall.jpg
-role: Principal Investigator
+role: principal-investigator
 affiliation: Marymount University
 group: faculty
 links:
