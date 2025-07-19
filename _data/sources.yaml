@@ -1,16 +1,13 @@
-green2023reddit:
-  title: "Sentiment and Topic Modeling Analysis of Reddit Posts on Changing One's Major"
+- id: "issn:1937-4771"
+  title: Sentiment and Topic Modeling Analysis of Reddit Posts on Changing One's Major
   authors:
-    - "Nathan Green"
-    - "Karen Works"
-  publisher: "Consortium for Computing Sciences in Colleges"
-  issued:
-    year: 2023
-    month: 11
-    day: 1
-  container-title: "Journal of Computing Sciences in Colleges"
+    - Nathan Green
+    - Karen Works
+  publisher: Consortium for Computing Sciences in Colleges
+  date: 2023-11-01
+  container-title: Journal of Computing Sciences in Colleges
   volume: 39
   issue: 5
-  page: "13–22"
-  publisher-place: "Evansville, IN, USA"
-  type: "article-journal"
+  pages: 13-22
+  address: Evansville, IN, USA
+  type: article-journal
