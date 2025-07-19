@@ -1,13 +1,2 @@
-- id: abs:10.5555/3637068.3637069
-  title: Sentiment and Topic Modeling Analysis of Reddit Posts on Changing One's Major
-  authors:
-    - Nathan Green
-    - Karen Works
-  publisher: Consortium for Computing Sciences in Colleges
-  date: 2023-11-01
-  container-title: Journal of Computing Sciences in Colleges
-  volume: 39
-  issue: 5
-  pages: 13-22
-  address: Evansville, IN, USA
-  type: article
+- id: doi:10.1109/FIE61694.2024.10893172
+  type: paper
