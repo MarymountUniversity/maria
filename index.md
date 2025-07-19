@@ -3,7 +3,7 @@
 
 # MarymountUniversity's Website
 
-Our goal is to support academic scholarship, mentor students, and increase Marymount’s external visibility in applied AI research through collaboration between students, faculty, and across schools. 
+Our goal is to support academic scholarship, mentor students, and increase Marymount's external visibility in applied AI research through collaboration between students, faculty, and across schools. 
 
 
 {% include section.html %}
