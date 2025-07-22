@@ -1,27 +1,20 @@
----
-title: Projects
+﻿---
+title: Doctoral Work
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Active doctoral students and past theses
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-graduation-cap" %} Doctoral Work
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+---
 
-{% include tags.html tags="grants, contracts, project" %}
+## 🎓 Current Doctoral Students
 
-{% include search-info.html %}
+{% include list_by_advisor.html component="student-card" data="doctoral_students" %}
 
-{% include section.html %}
+---
 
-## Featured
+## 📜 Graduated Theses
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
-
-{% include section.html %}
-
-## More
-
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include list_by_advisor.html component="thesis-card" data="theses" %}

@@ -1,0 +1,32 @@
+{% assign raw_data = site.data[include.data] | default: site[include.data] | default: "" | split: "," %}
+
+{% assign grouped_by_advisor = raw_data | group_by: "advisor" | sort: "name" %}
+
+{% for advisor_group in grouped_by_advisor %}
+  {% assign advisor_name = advisor_group.name %}
+  {% assign advisor_items = advisor_group.items %}
+
+  <h2>{{ advisor_name }}</h2>
+
+  {% assign grouped_by_year = advisor_items | group_by_exp: "item", "item.date | date: '%Y'" | sort: "name" | reverse %}
+
+  {% for year_group in grouped_by_year %}
+    <h3>{{ year_group.name }}</h3>
+
+    {% assign items = year_group.items | sort: "date" | reverse %}
+
+    {% for d in items %}
+      {% include {{ include.component | append: ".html" }}
+        name=d.name
+        author=d.author
+        title=d.title
+        advisor=d.advisor
+        topic=d.topic
+        abstract=d.abstract
+        bio=d.bio
+        date=d.date
+        pdf=d.pdf
+      %}
+    {% endfor %}
+  {% endfor %}
+{% endfor %}

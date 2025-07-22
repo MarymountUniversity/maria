@@ -1,0 +1,13 @@
+- title: Affective Computing in Educational Robots
+  author: Nora Chen
+  advisor: Dr. Jane Smith
+  date: 2023-05-01
+  abstract: This thesis explores the use of multimodal emotion sensing in classroom robots.
+  pdf: /assets/pdfs/nora-chen-thesis.pdf
+
+- title: Federated Learning in Health Data
+  author: Bilal Khan
+  advisor: Dr. Jane Smith
+  date: 2022-06-01
+  abstract: Applying federated techniques to preserve patient privacy in predictive health models.
+  pdf: /assets/pdfs/bilal-khan-thesis.pdf
