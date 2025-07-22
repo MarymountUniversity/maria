@@ -1,10 +1,9 @@
-﻿---
-title: Doctoral Work
+---
+title: Dsc
 nav:
   order: 2
   tooltip: Email, address, and location
 ---
-
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
 ---
