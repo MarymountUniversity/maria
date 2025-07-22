@@ -7,8 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-# {% include icon.html icon="fa-solid fa-graduation-cap" %} Doctoral Work
-
 ---
 
 ## Current Doctoral Students
