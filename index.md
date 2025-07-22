@@ -80,3 +80,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Team"
   text=text
 %}
+<h2>Jekyll Pages</h2>
+<ul>
+  {% for p in site.pages %}
+    <li><code>{{ p.url }}</code></li>
+  {% endfor %}
+</ul>
