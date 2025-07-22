@@ -1,6 +1,5 @@
 ﻿---
 title: Doctoral Work
-layout: default
 nav:
   order: 2
   tooltip: Doctoral students and theses
