@@ -1,8 +1,8 @@
-﻿---
-title: Doctoral Worl
+---
+title: Contacty
 nav:
   order: 2
-  tooltip: Doctoral Students and finished theses
+  tooltip: Email, address, and location
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
