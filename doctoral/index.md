@@ -3,6 +3,8 @@ title: Doctoral Work
 nav:
   order: 2
   tooltip: Active doctoral students and past theses
+permalink: /doctoral/
+layout: default
 ---
 
 
@@ -16,6 +18,6 @@ nav:
 
 ---
 
-## 📜 Graduated Theses
+## 📜 Graduated Marymount Theses 
 
 {% include list_by_advisor.html component="thesis-card" data="theses" %}
