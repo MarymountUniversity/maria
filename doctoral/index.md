@@ -10,10 +10,10 @@ nav:
 
 ## Current Doctoral Students
 
-{% include list_by_advisor.html component="student-card" data="doctoral_students" %}
+{% include list-by-advisor.html component="student-card" data="doctoral_students" %}
 
 ---
 
 ## Graduated Theses
 
-{% include list_by_advisor.html component="thesis-card" data="theses" %}
+{% include list-by-advisor.html component="thesis-card" data="theses" %}
