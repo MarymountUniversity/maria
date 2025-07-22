@@ -1,12 +1,12 @@
 ﻿---
 title: Doctoral Work
+layout: default
 nav:
   order: 2
-  tooltip: Active doctoral students and past theses
-layout: default
+  tooltip: Doctoral students and theses
 permalink: /doctoral/
 ---
 
 # Doctoral Work
 
-This is a test page.
+This is a test page to verify if Jekyll includes this in `site.pages`.
