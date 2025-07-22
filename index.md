@@ -39,7 +39,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include button.html
-  link="doctoral_students "
+  link="doctoral "
   text="Browse our Docotral Students and their Theses"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -51,7 +51,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="projects"
+  link="doctoral"
   title="Our Projects"
   flip=true
   style="bare"
