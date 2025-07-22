@@ -40,7 +40,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include button.html
   link="doctoral "
-  text="Browse our Docotral Students and their Theses"
+  text="Browse our Doctoral Students and their Theses"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
