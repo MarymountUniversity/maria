@@ -5,6 +5,7 @@ nav:
   tooltip: Active doctoral students and past theses
 ---
 
+
 # {% include icon.html icon="fa-solid fa-graduation-cap" %} Doctoral Work
 
 ---
