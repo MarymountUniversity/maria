@@ -4,9 +4,6 @@ nav:
   order: 2
   tooltip: Email, address, and location
 ---
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
-
----
 
 
 <h2>Loaded Student Data:</h2>

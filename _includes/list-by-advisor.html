@@ -16,17 +16,18 @@
     {% assign items = year_group.items | sort: "date" | reverse %}
 
     {% for d in items %}
-      {% include {{ include.component | append: ".html" }}
-        name=d.name
-        author=d.author
-        title=d.title
-        advisor=d.advisor
-        topic=d.topic
-        abstract=d.abstract
-        bio=d.bio
-        date=d.date
-        pdf=d.pdf
-      %}
+     {% include {{ include.component | append: ".html" }}
+  name=d.name
+  author=d.author
+  title=d.title
+  advisor=d.advisor
+  topic=d.topic
+  abstract=d.abstract
+  bio=d.bio
+  start_date=d.start_date
+  date=d.date
+  pdf=d.pdf
+%}
     {% endfor %}
   {% endfor %}
 {% endfor %}
