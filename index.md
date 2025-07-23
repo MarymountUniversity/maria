@@ -52,7 +52,7 @@ See what areas our past and current doctoral students have been working in!
   include feature.html
   image="images/photo.jpg"
   link="doctoral"
-  title="Our Projects"
+  title="Doctoral Research"
   flip=true
   style="bare"
   text=text
@@ -60,7 +60,7 @@ See what areas our past and current doctoral students have been working in!
 
 {% capture text %}
 
-the lab consists of researchers from undergraduate, masters, docorate levels as well as full-time faculty and affialiate faculty.
+The lab consists of researchers from undergraduate, masters, docorate levels as well as full-time faculty and affialiate faculty.
 
 {%
   include button.html
