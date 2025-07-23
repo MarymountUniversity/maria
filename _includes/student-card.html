@@ -1,4 +1,5 @@
 <div class="student-entry" style="padding: 0.5em 0; border-bottom: 1px solid #ccc;">
-  <strong>{{ name }}</strong>{% if advisor %}, advised by {{ advisor }}{% endif %}
+  {% if name %}<strong>{{ name }}</strong>{% endif %}
+  {% if advisor %}, advised by {{ advisor }}{% endif %}
   {% if topic %}<br><em>Research Area:</em> {{ topic }}{% endif %}
 </div>
