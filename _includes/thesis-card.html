@@ -4,6 +4,5 @@
     {% if include.author %}<p><strong>Author:</strong> {{ include.author }}</p>{% endif %}
     {% if include.advisor %}<p><strong>Advisor:</strong> {{ include.advisor }}</p>{% endif %}
     {% if include.date %}<p><em>Defended: {{ include.date | date: "%B %Y" }}</em></p>{% endif %}
-    {% if include.pdf %}<a href="{{ include.pdf }}" class="btn">Download PDF</a>{% endif %}
   </div>
 </div>
