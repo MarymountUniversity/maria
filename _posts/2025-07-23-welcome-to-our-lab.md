@@ -1,5 +1,5 @@
 ---
-title: Welcome to our Lab
+title: "Welcome to our Lab"
 image: images/background.jpg
 author: nathan-green
 tags: research
