@@ -12,7 +12,7 @@ Our goal is to support academic scholarship, mentor students, and increase Marym
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Faculty and Students are conducting research in diverse domains through the use of applied AI. 
 
 {%
   include button.html
@@ -35,7 +35,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+See what areas our past and current doctoral students have been working in!
 
 {%
   include button.html
@@ -60,7 +60,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+the lab consists of researchers from undergraduate, masters, docorate levels as well as full-time faculty and affialiate faculty.
 
 {%
   include button.html
