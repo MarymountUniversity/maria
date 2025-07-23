@@ -7,7 +7,7 @@ nav:
 
 
 <h2>Loaded Student Data:</h2>
-<pre>{{ site.data.theses | jsonify }}</pre>
+<pre>{{ site.data.doctoral_students | jsonify }}</pre>
 
 
 ## Current Doctoral Students
