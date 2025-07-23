@@ -1,7 +1,7 @@
 <div class="card">
   <div class="card-content">
-    {% if name %}<h4>{{ name }}</h4>{% endif %}
-    {% if topic %}<p><strong>Research Area:</strong> {{ topic }}</p>{% endif %}
-    {% if advisor %}<p><strong>Advisor:</strong> {{ advisor }}</p>{% endif %}
+    {% if include.name %}<h4>{{ include.name }}</h4>{% endif %}
+    {% if include.topic %}<p><strong>Research Area:</strong> {{ include.topic }}</p>{% endif %}
+    {% if include.advisor %}<p><strong>Advisor:</strong> {{ include.advisor }}</p>{% endif %}
   </div>
 </div>
