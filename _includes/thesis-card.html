@@ -1,17 +1,3 @@
-<div class="thesis-entry" style="padding: 0.5em 0; border-bottom: 1px solid #ccc;">
-  {% if include.title %}
-    <strong>{{ include.title }}</strong>
-  {% endif %}
-
-  {% if include.date %}
-    <br><em>{{ include.date }}</em>
-  {% endif %}
-
-  {% if include.author %}
-    <br>By {{ include.author }}
-  {% endif %}
-
-  {% if include.advisor %}
-    <br>Advisor: {{ include.advisor }}
-  {% endif %}
+<div class="citation">
+  <strong>{{ include.name | default: "" }}</strong>{% if include.title %}, <em>{{ include.title }}</em>{% endif %}{% if include.date %}, {{ include.date }}{% endif %}{% if include.advisor %}, advised by {{ include.advisor }}{% endif %}.
 </div>
