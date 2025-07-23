@@ -8,7 +8,9 @@
 
   <h2>{{ advisor_name }}</h2>
 
-  {% assign grouped_by_year = advisor_items | group_by_exp: "item", "item.date | date: '%Y'" | sort: "name" | reverse %}
+{% assign grouped_by_year = advisor_items | group_by_exp: "item", "item.start_date | date: '%Y'" | sort: "name" | reverse %}
+{% assign items = year_group.items | sort: "start_date" | reverse %}
+
 
   {% for year_group in grouped_by_year %}
     <h3>{{ year_group.name }}</h3>
