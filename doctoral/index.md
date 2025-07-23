@@ -16,6 +16,6 @@ nav:
 
 ---
 
-## Graduated Theses
+##  Completed Theses
 
 {% include list-by-advisor.html component="thesis-card" data="theses" %}

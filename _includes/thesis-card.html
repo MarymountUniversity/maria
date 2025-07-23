@@ -1,11 +1,9 @@
 <div class="card">
   <div class="card-content">
-    <h4>{{ title }}</h4>
-    <p><strong>Author:</strong> {{ author }}</p>
-    <p>{{ abstract }}</p>
-    <p><em>Completed: {{ date | date: "%B %Y" }}</em></p>
-    {% if pdf %}
-      <a href="{{ pdf }}" class="btn">Download PDF</a>
-    {% endif %}
+    {% if title %}<h4>{{ title }}</h4>{% endif %}
+    {% if author %}<p><strong>Author:</strong> {{ author }}</p>{% endif %}
+    {% if advisor %}<p><strong>Advisor:</strong> {{ advisor }}</p>{% endif %}
+    {% if date %}<p><em>Defended: {{ date | date: "%B %Y" }}</em></p>{% endif %}
+    {% if pdf %}<a href="{{ pdf }}" class="btn">Download PDF</a>{% endif %}
   </div>
 </div>
