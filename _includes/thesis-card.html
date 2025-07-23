@@ -1,8 +1,5 @@
-<div class="card">
-  <div class="card-content">
-    {% if include.title %}<h4>{{ include.title }}</h4>{% endif %}
-    {% if include.author %}<p><strong>Author:</strong> {{ include.author }}</p>{% endif %}
-    {% if include.advisor %}<p><strong>Advisor:</strong> {{ include.advisor }}</p>{% endif %}
-    {% if include.date %}<p><em>Defended: {{ include.date | date: "%B %Y" }}</em></p>{% endif %}
-  </div>
+<div class="thesis-entry" style="padding: 0.5em 0; border-bottom: 1px solid #ccc;">
+  <strong>{{ author }}</strong>{% if advisor %}, advised by {{ advisor }}{% endif %}
+  {% if title %}<br><em>{{ title }}</em>{% endif %}
+  {% if date %}<br><small><em>{{ date }}</em></small>{% endif %}
 </div>

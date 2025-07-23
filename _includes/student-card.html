@@ -1,7 +1,4 @@
-<div class="card">
-  <div class="card-content">
-    {% if include.name %}<h4>{{ include.name }}</h4>{% endif %}
-    {% if include.topic %}<p><strong>Research Area:</strong> {{ include.topic }}</p>{% endif %}
-    {% if include.advisor %}<p><strong>Advisor:</strong> {{ include.advisor }}</p>{% endif %}
-  </div>
+<div class="student-entry" style="padding: 0.5em 0; border-bottom: 1px solid #ccc;">
+  <strong>{{ name }}</strong>{% if advisor %}, advised by {{ advisor }}{% endif %}
+  {% if topic %}<br><em>Research Area:</em> {{ topic }}{% endif %}
 </div>
