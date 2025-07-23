@@ -1,4 +1,5 @@
-{% assign entries = site.data[include.data] | default: site[include.data] | default: "" | split: "," %}
+{% assign emptyarray = "" | split: "," %}
+{% assign entries = site.data[include.data] | default: site[include.data] | default: emptyarray %}
 
 {% for entry in entries %}
   {% include {{ include.component | append: ".html" }}
