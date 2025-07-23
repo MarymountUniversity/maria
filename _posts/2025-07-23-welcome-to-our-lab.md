@@ -2,7 +2,9 @@
 title: Welcome to our Lab
 image: images/background.jpg
 author: nathan-green
-tags: research
+tags:
+  - Research
+  - AI
 ---
 
 The MARIA Lab is a place where faculty and students at Marymount come together to explore real-world problems using technology and data. Whether you’re just getting started with a research idea or working on your doctoral dissertation, we’re here to support you.
