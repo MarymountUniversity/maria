@@ -1,5 +1,5 @@
 ---
-title: Dsc
+title: Doctoral
 nav:
   order: 2
   tooltip: Email, address, and location
@@ -7,7 +7,7 @@ nav:
 
 
 <h2>Loaded Student Data:</h2>
-<pre>{{ site.data.doctoral_students | jsonify }}</pre>
+<pre>{{ site.data.theses | jsonify }}</pre>
 
 
 ## Current Doctoral Students
