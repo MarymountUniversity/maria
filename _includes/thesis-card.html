@@ -1,6 +1,17 @@
 <div class="thesis-entry" style="padding: 0.5em 0; border-bottom: 1px solid #ccc;">
-  {% if author %}<strong>{{ author }}</strong>{% endif %}
-  {% if advisor %}, advised by {{ advisor }}{% endif %}
-  {% if title %}<br><em>{{ title }}</em>{% endif %}
-  {% if date %}<br><small><em>{{ date }}</em></small>{% endif %}
+  {% if include.title %}
+    <strong>{{ include.title }}</strong>
+  {% endif %}
+
+  {% if include.date %}
+    <br><em>{{ include.date }}</em>
+  {% endif %}
+
+  {% if include.author %}
+    <br>By {{ include.author }}
+  {% endif %}
+
+  {% if include.advisor %}
+    <br>Advisor: {{ include.advisor }}
+  {% endif %}
 </div>
