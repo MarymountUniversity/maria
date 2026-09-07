@@ -1,5 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1109/FIE63693.2025.11328286
+  title: 'WIP: Decoding Cybersecurity: An Ethnographic Case Study of Cybersecurity
+    Awareness Education'
+  authors:
+  - Amber C. Williamson
+  - Andrew O. Hall
+  publisher: 2025 IEEE Frontiers in Education Conference (FIE)
+  date: '2025-11-02'
+  link: https://doi.org/hbkdfr
+  orcid: 0000-0002-8083-806X
+  plugin: orcid.py
+  file: orcid-andy.yaml
 - id: doi:10.1201/9781003396307-5
   title: Military Workforce Planning and Modeling
   authors:
@@ -124,6 +136,57 @@
   orcid: 0000-0002-8083-806X
   plugin: orcid.py
   file: orcid-andy.yaml
+- id: doi:10.1007/978-3-032-16451-3_6
+  title: "Improving Communication in\_the\_Metaverse Using 3-Dimensional Space for\_\
+    LLM and\_Autocomplete Integration"
+  authors:
+  - Nathan Green
+  publisher: Communications in Computer and Information Science
+  date: '2026-01-01'
+  link: https://doi.org/hbpjrh
+  orcid: 0000-0002-5312-1426
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/geroni/igaf122.4313
+  title: Utilizing Human-in-the-Loop AI Predictions to Prescribe Personalized Falls
+    Prevention Programs
+  authors:
+  - Mahederemariam Dagne
+  - Nathan Green
+  - Diane Murphy
+  - Patricia Heyn
+  publisher: Innovation in Aging
+  date: '2025-12-01'
+  link: https://doi.org/hb8cb2
+  orcid: 0000-0002-5312-1426
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icdmw69685.2025.00010
+  title: Synthetic Gait Video Dataset Generation for Privacy-Preserving Gait Disorder
+    Analysis
+  authors:
+  - Oluwatomisin Giwamogorewa
+  - Julie D. Ries
+  - Nathan Green
+  publisher: 2025 IEEE International Conference on Data Mining Workshops (ICDMW)
+  date: '2025-11-12'
+  link: https://doi.org/hb8cb3
+  orcid: 0000-0002-5312-1426
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/fie63693.2025.11328667
+  title: 'WIP: Defining Research Trends in Cybersecurity to Guide Doctoral Student
+    Research'
+  authors:
+  - Diane Murphy
+  - Nathan Green
+  - Donna Schaeffer
+  publisher: 2025 IEEE Frontiers in Education Conference (FIE)
+  date: '2025-11-02'
+  link: https://doi.org/hb8cb4
+  orcid: 0000-0002-5312-1426
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1021/acs.jchemed.4c00470
   title: 'The Online Version of <i>CHEMCompete-II</i>: An Organic Chemistry Card Game
     to Differentiate Between Substitution and Elimination Reactions of Alcohols'
@@ -155,8 +218,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: issn:1937-4771
-  title: ISSN 1937-4771 (Print) | Journal of computing sciences in colleges | The
-    ISSN Portal
+  title: ISSN 1937-4771 - Journal of computing sciences in colleges
   authors: []
   publisher: ''
   date: ''
@@ -212,8 +274,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: issn:1545-679X
-  title: ISSN 1545-679X (Online) | Information systems education journal | The ISSN
-    Portal
+  title: ISSN 1545-679X - Information systems education journal
   authors: []
   publisher: ''
   date: ''
@@ -222,11 +283,11 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: issn:EISSN-1545-679X
-  title: Welcome to The ISSN Portal | The ISSN Portal
+  title: ''
   authors: []
   publisher: ''
   date: ''
-  link: https://portal.issn.org/
+  link: https://portal.issn.org/resource/ISSN/EISSN-1545-679X
   orcid: 0000-0002-5312-1426
   plugin: orcid.py
   file: orcid.yaml
