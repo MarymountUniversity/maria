@@ -1,5 +1,239 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1007/978-3-032-16451-3_6
+  title: "Improving Communication in\_the\_Metaverse Using 3-Dimensional Space for\_\
+    LLM and\_Autocomplete Integration"
+  authors:
+  - Nathan Green
+  publisher: Communications in Computer and Information Science
+  date: '2026-01-01'
+  link: https://doi.org/hbpjrh
+  orcid: 0000-0002-5312-1426
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/geroni/igaf122.4313
+  title: Utilizing Human-in-the-Loop AI Predictions to Prescribe Personalized Falls
+    Prevention Programs
+  authors:
+  - Mahederemariam Dagne
+  - Nathan Green
+  - Diane Murphy
+  - Patricia Heyn
+  publisher: Innovation in Aging
+  date: '2025-12-01'
+  link: https://doi.org/hb8cb2
+  orcid: 0000-0002-5312-1426
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icdmw69685.2025.00010
+  title: Synthetic Gait Video Dataset Generation for Privacy-Preserving Gait Disorder
+    Analysis
+  authors:
+  - Oluwatomisin Giwamogorewa
+  - Julie D. Ries
+  - Nathan Green
+  publisher: 2025 IEEE International Conference on Data Mining Workshops (ICDMW)
+  date: '2025-11-12'
+  link: https://doi.org/hb8cb3
+  orcid: 0000-0002-5312-1426
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/fie63693.2025.11328667
+  title: 'WIP: Defining Research Trends in Cybersecurity to Guide Doctoral Student
+    Research'
+  authors:
+  - Diane Murphy
+  - Nathan Green
+  - Donna Schaeffer
+  publisher: 2025 IEEE Frontiers in Education Conference (FIE)
+  date: '2025-11-02'
+  link: https://doi.org/hb8cb4
+  orcid: 0000-0002-5312-1426
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.jchemed.4c00470
+  title: 'The Online Version of <i>CHEMCompete-II</i>: An Organic Chemistry Card Game
+    to Differentiate Between Substitution and Elimination Reactions of Alcohols'
+  authors:
+  - Sydney Lam
+  - Katie McShea
+  - Eric Bubar
+  - Jacquelyn Rische
+  - Nathan Green
+  - Deana Jaber
+  publisher: Journal of Chemical Education
+  date: '2024-10-21'
+  link: https://doi.org/g9trwz
+  orcid: 0000-0002-5312-1426
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/fie61694.2024.10893172
+  title: Forging New Paths in Cybersecurity Doctoral Research with Open Datasets and
+    Synthetic Data Generation
+  authors:
+  - Michelle Liu
+  - Nathan Green
+  - Diane Murphy
+  - Donna Schaeffer
+  publisher: 2024 IEEE Frontiers in Education Conference (FIE)
+  date: '2024-10-13'
+  link: https://doi.org/g9tppw
+  orcid: 0000-0002-5312-1426
+  plugin: orcid.py
+  file: orcid.yaml
+- id: issn:1937-4771
+  title: Making sure you're not a bot!
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/1937-4771
+  orcid: 0000-0002-5312-1426
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/FIE58773.2023.10343001
+  title: Creating Tangible VR Spaces for Exploring Algorithm Complexity and Data Structures
+  authors:
+  - Nathan Green
+  publisher: 2023 IEEE Frontiers in Education Conference (FIE)
+  date: '2023-10-18'
+  link: https://doi.org/g9tpr3
+  orcid: 0000-0002-5312-1426
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3564533.3564571
+  title: Defining the Metaverse through the lens of academic scholarship, news articles,
+    and social media
+  authors:
+  - Nathan Green
+  - Karen Works
+  publisher: The 27th International Conference on 3D Web Technology
+  date: '2022-11-02'
+  link: https://doi.org/g9tpr4
+  orcid: 0000-0002-5312-1426
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/HRI53351.2022.9889306
+  title: Measuring Users' Attitudinal and Behavioral Responses to Persuasive Communication
+    Techniques in Human Robot Interaction
+  authors:
+  - Nathan Green
+  - Karen Works
+  publisher: 2022 17th ACM/IEEE International Conference on Human-Robot Interaction
+    (HRI)
+  date: '2022-03-07'
+  link: https://doi.org/g9tpr5
+  orcid: 0000-0002-5312-1426
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.19030/jabr.v36i3.10348
+  title: Analyzing The Strength Between Mission And Vision Statements And Industry
+    Via Machine Learning
+  authors:
+  - Faleh Alshameri
+  - Nathan Green Green
+  publisher: Journal of Applied Business Research (JABR)
+  date: '2020-05-01'
+  link: https://doi.org/g9tpr6
+  orcid: 0000-0002-5312-1426
+  plugin: orcid.py
+  file: orcid.yaml
+- id: issn:1545-679X
+  title: Making sure you're not a bot!
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/1545-679X
+  orcid: 0000-0002-5312-1426
+  plugin: orcid.py
+  file: orcid.yaml
+- id: issn:EISSN-1545-679X
+  title: Making sure you're not a bot!
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/EISSN-1545-679X
+  orcid: 0000-0002-5312-1426
+  plugin: orcid.py
+  file: orcid.yaml
+- id: isbn:3319213105
+  title: Hybrid approaches to machine translation
+  authors: []
+  publisher: Springer
+  date: '2016-01-01'
+  link: ''
+  orcid: 0000-0002-5312-1426
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1201/b15352-10
+  title: Graph-based Proximity Measures
+  authors: []
+  publisher: Practical Graph Mining with R
+  date: '2013-07-15'
+  link: https://doi.org/g9tpr7
+  orcid: 0000-0002-5312-1426
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1201/b15352-9
+  title: Link Analysis
+  authors: []
+  publisher: Practical Graph Mining with R
+  date: '2013-07-15'
+  link: https://doi.org/g9tpr8
+  orcid: 0000-0002-5312-1426
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1472-6947-9-S1-S5
+  title: 'BioDEAL: community generation of biological annotations'
+  authors:
+  - Paul Breimyer
+  - Nathan Green
+  - Vinay Kumar
+  - Nagiza F Samatova
+  publisher: BMC Medical Informatics and Decision Making
+  date: '2009-11-03'
+  link: https://doi.org/d3gbqn
+  orcid: 0000-0002-5312-1426
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/BIBMW.2008.4686215
+  title: 'BioDEAL: Biological data-evidence-annotation linkage system'
+  authors:
+  - P. Breimyer
+  - N. Green
+  - V. Kumar
+  - N.F. Samatova
+  publisher: 2008 IEEE International Conference on Bioinformatics and Biomeidcine
+    Workshops
+  date: '2008-11-01'
+  link: https://doi.org/bzb2vh
+  orcid: 0000-0002-5312-1426
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/985921.986082
+  title: A reduced QWERTY keyboard for mobile text entry
+  authors:
+  - Nathan Green
+  - Jan Kruger
+  - Chirag Faldu
+  - Robert St. Amant
+  publisher: CHI '04 Extended Abstracts on Human Factors in Computing Systems
+  date: '2004-04-24'
+  link: https://doi.org/d5dgq7
+  orcid: 0000-0002-5312-1426
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/FIE63693.2025.11328286
+  title: 'WIP: Decoding Cybersecurity: An Ethnographic Case Study of Cybersecurity
+    Awareness Education'
+  authors:
+  - Amber C. Williamson
+  - Andrew O. Hall
+  publisher: 2025 IEEE Frontiers in Education Conference (FIE)
+  date: '2025-11-02'
+  link: https://doi.org/hbkdfr
+  orcid: 0000-0002-8083-806X
+  plugin: orcid.py
+  file: orcid-andy.yaml
 - id: doi:10.1201/9781003396307-5
   title: Military Workforce Planning and Modeling
   authors:
@@ -124,179 +358,19 @@
   orcid: 0000-0002-8083-806X
   plugin: orcid.py
   file: orcid-andy.yaml
-- id: doi:10.1021/acs.jchemed.4c00470
-  title: 'The Online Version of <i>CHEMCompete-II</i>: An Organic Chemistry Card Game
-    to Differentiate Between Substitution and Elimination Reactions of Alcohols'
+- id: doi:10.12688/f1000research.162834.2
+  title: Technology Support Fraud Analysis for the Elderly
   authors:
-  - Sydney Lam
-  - Katie McShea
-  - Eric Bubar
-  - Jacquelyn Rische
-  - Nathan Green
-  - Deana Jaber
-  publisher: Journal of Chemical Education
-  date: '2024-10-21'
-  link: https://doi.org/g9trwz
-  orcid: 0000-0002-5312-1426
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1109/fie61694.2024.10893172
-  title: Forging New Paths in Cybersecurity Doctoral Research with Open Datasets and
-    Synthetic Data Generation
-  authors:
-  - Michelle Liu
-  - Nathan Green
+  - Mimi Enakome Oka
+  - Martin Hromada
   - Diane Murphy
-  - Donna Schaeffer
-  publisher: 2024 IEEE Frontiers in Education Conference (FIE)
-  date: '2024-10-13'
-  link: https://doi.org/g9tppw
-  orcid: 0000-0002-5312-1426
+  - Alex Mbaziira
+  publisher: F1000Research
+  date: '2026-09-07'
+  link: https://doi.org/hcjgzg
+  orcid: 0000-0002-1360-3578
   plugin: orcid.py
-  file: orcid.yaml
-- id: issn:1937-4771
-  title: ISSN 1937-4771 (Print) | Journal of computing sciences in colleges | The
-    ISSN Portal
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/1937-4771
-  orcid: 0000-0002-5312-1426
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1109/FIE58773.2023.10343001
-  title: Creating Tangible VR Spaces for Exploring Algorithm Complexity and Data Structures
-  authors:
-  - Nathan Green
-  publisher: 2023 IEEE Frontiers in Education Conference (FIE)
-  date: '2023-10-18'
-  link: https://doi.org/g9tpr3
-  orcid: 0000-0002-5312-1426
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1145/3564533.3564571
-  title: Defining the Metaverse through the lens of academic scholarship, news articles,
-    and social media
-  authors:
-  - Nathan Green
-  - Karen Works
-  publisher: The 27th International Conference on 3D Web Technology
-  date: '2022-11-02'
-  link: https://doi.org/g9tpr4
-  orcid: 0000-0002-5312-1426
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1109/HRI53351.2022.9889306
-  title: Measuring Users' Attitudinal and Behavioral Responses to Persuasive Communication
-    Techniques in Human Robot Interaction
-  authors:
-  - Nathan Green
-  - Karen Works
-  publisher: 2022 17th ACM/IEEE International Conference on Human-Robot Interaction
-    (HRI)
-  date: '2022-03-07'
-  link: https://doi.org/g9tpr5
-  orcid: 0000-0002-5312-1426
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.19030/jabr.v36i3.10348
-  title: Analyzing The Strength Between Mission And Vision Statements And Industry
-    Via Machine Learning
-  authors:
-  - Faleh Alshameri
-  - Nathan Green Green
-  publisher: Journal of Applied Business Research (JABR)
-  date: '2020-05-01'
-  link: https://doi.org/g9tpr6
-  orcid: 0000-0002-5312-1426
-  plugin: orcid.py
-  file: orcid.yaml
-- id: issn:1545-679X
-  title: ISSN 1545-679X (Online) | Information systems education journal | The ISSN
-    Portal
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/1545-679X
-  orcid: 0000-0002-5312-1426
-  plugin: orcid.py
-  file: orcid.yaml
-- id: issn:EISSN-1545-679X
-  title: Welcome to The ISSN Portal | The ISSN Portal
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/
-  orcid: 0000-0002-5312-1426
-  plugin: orcid.py
-  file: orcid.yaml
-- id: isbn:3319213105
-  title: Hybrid approaches to machine translation
-  authors: []
-  publisher: Springer
-  date: '2016-01-01'
-  link: ''
-  orcid: 0000-0002-5312-1426
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1201/b15352-10
-  title: Graph-based Proximity Measures
-  authors: []
-  publisher: Practical Graph Mining with R
-  date: '2013-07-15'
-  link: https://doi.org/g9tpr7
-  orcid: 0000-0002-5312-1426
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1201/b15352-9
-  title: Link Analysis
-  authors: []
-  publisher: Practical Graph Mining with R
-  date: '2013-07-15'
-  link: https://doi.org/g9tpr8
-  orcid: 0000-0002-5312-1426
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/1472-6947-9-S1-S5
-  title: 'BioDEAL: community generation of biological annotations'
-  authors:
-  - Paul Breimyer
-  - Nathan Green
-  - Vinay Kumar
-  - Nagiza F Samatova
-  publisher: BMC Medical Informatics and Decision Making
-  date: '2009-11-03'
-  link: https://doi.org/d3gbqn
-  orcid: 0000-0002-5312-1426
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1109/BIBMW.2008.4686215
-  title: 'BioDEAL: Biological data-evidence-annotation linkage system'
-  authors:
-  - P. Breimyer
-  - N. Green
-  - V. Kumar
-  - N.F. Samatova
-  publisher: 2008 IEEE International Conference on Bioinformatics and Biomeidcine
-    Workshops
-  date: '2008-11-01'
-  link: https://doi.org/bzb2vh
-  orcid: 0000-0002-5312-1426
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1145/985921.986082
-  title: A reduced QWERTY keyboard for mobile text entry
-  authors:
-  - Nathan Green
-  - Jan Kruger
-  - Chirag Faldu
-  - Robert St. Amant
-  publisher: CHI '04 Extended Abstracts on Human Factors in Computing Systems
-  date: '2004-04-24'
-  link: https://doi.org/d5dgq7
-  orcid: 0000-0002-5312-1426
-  plugin: orcid.py
-  file: orcid.yaml
+  file: orcid-diane.yaml
 - id: doi:10.1109/FIE61694.2024.10893172
   title: Forging New Paths in Cybersecurity Doctoral Research with Open Datasets and
     Synthetic Data Generation
