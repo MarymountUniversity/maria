@@ -7,20 +7,26 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-A partial list of published works from our faculty and students from the MARIA lab
+Publications from MARIA faculty and students. Filter by area or search by title, author, or venue.
+
+{% include tags.html tags="nlp,cybersecurity,health,hci,xr,data-science,education" %}
 
 {% include section.html %}
 
 ## Highlighted
 
-{% include citation.html lookup="Forging New Paths in Cybersecurity Doctoral Research with Open Datasets and Synthetic Data Generation" style="rich" %}
+{% include citation.html lookup="Synthetic Gait Video Dataset Generation" %}
+
+{% include citation.html lookup="Utilizing Human-in-the-Loop AI Predictions" %}
+
+{% include citation.html lookup="Forging New Paths in Cybersecurity Doctoral Research" %}
 
 {% include section.html %}
 
-## All
+## All publications
 
 {% include search-box.html %}
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% include list.html data="citations" component="citation" %}

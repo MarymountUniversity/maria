@@ -1,17 +1,17 @@
 # site properties and page defaults
 title: MARIA
 subtitle: Marymount Applied Research in Artificial Intelligence
-description: Marymount's research lab for all things AI, ML, NLP and Dats Science
+description: Marymount University's lab for applied research in artificial intelligence, machine learning, natural language processing, and data science
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-#  email: nathan.green@marymount.edu
+  email: ngreen@marymount.edu
 #  orcid: 0000-0001-8713-9213
 #  google-scholar: ETJoidYAAAAJ
-#  github: MarymountUniversity
+  github: MarymountUniversity/maria
 #  twitter: MarymountUniversity
 #  youtube: MarymountUniversity
 

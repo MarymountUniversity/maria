@@ -1,13 +1,21 @@
 {% assign emptyarray = "" | split: "," %}
 {% assign entries = site.data[include.data] | default: site[include.data] | default: emptyarray %}
+{% assign groups = entries | group_by: "advisor" | sort: "name" %}
 
-{% for entry in entries %}
-  {% include {{ include.component | append: ".html" }}
-    name=entry.name
-    advisor=entry.advisor
-    topic=entry.topic
-    title=entry.title
-    author=entry.author
-    date=entry.date
-  %}
+{% for group in groups %}
+  <div class="advisor-group">
+    <h3>{% include icon.html icon="fa-solid fa-chalkboard-user" %} {{ group.name }}</h3>
+    <div class="entry-list">
+      {% for entry in group.items %}
+        {% include {{ include.component | append: ".html" }}
+          name=entry.name
+          advisor=entry.advisor
+          topic=entry.topic
+          title=entry.title
+          author=entry.author
+          date=entry.date
+        %}
+      {% endfor %}
+    </div>
+  </div>
 {% endfor %}

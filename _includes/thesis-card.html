@@ -1,17 +1,8 @@
-<div class="thesis-entry" style="padding: 0.5em 0; border-bottom: 1px solid #ccc;">
-  {% if include.title %}
-    <strong>{{ include.title }}</strong>
-  {% endif %}
-
-  {% if include.date %}
-    <br><em>{{ include.date }}</em>
-  {% endif %}
-
-  {% if include.author %}
-    <br>By {{ include.author }}
-  {% endif %}
-
-  {% if include.advisor %}
-    <br>Advisor: {{ include.advisor }}
-  {% endif %}
+<div class="entry-card">
+  <span class="entry-title">{{ include.title }}</span>
+  <span class="entry-meta">
+    {% include icon.html icon="fa-solid fa-user-graduate" %}
+    {{ include.author }}
+    {% if include.date %}&nbsp;·&nbsp; {{ include.date }}{% endif %}
+  </span>
 </div>

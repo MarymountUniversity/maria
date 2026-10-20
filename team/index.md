@@ -7,20 +7,25 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-If you are interested in joining, please reach out to a member of our team.
+MARIA is a mix of full-time faculty, doctoral researchers, and undergraduates.
+If you're interested in joining, [reach out](contact).
 
 {% include section.html %}
 
+## Faculty
+
+<div class="team-group">
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
-{% include list.html data="members" component="portrait" filter="role != 'principal-investigator'" %}
+</div>
 
-{% include section.html background="images/background.jpg" dark=true %}
+## Doctoral researchers
 
+<div class="team-group">
+{% include list.html data="members" component="portrait" filter="role == 'dsc'" %}
+</div>
 
-{% include section.html %}
+## Undergraduate researchers
 
-{% capture content %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
+<div class="team-group">
+{% include list.html data="members" component="portrait" filter="role == 'undergrad'" %}
+</div>

@@ -2,53 +2,62 @@
 ---
 
 // colors
+// palette drawn from the lab's fleur-de-lis artwork: Marymount navy with
+// cyan → violet neon accents
 [data-dark="false"] {
-  --primary: #0795d9;
-  --secondary: #7dd3fc;
-  --text: #000000;
+  --primary: #1d4ed8;
+  --secondary: #c7d2fe;
+  --accent: #0891b2;
+  --accent-2: #a21caf;
+  --navy: #0a1f5c;
+  --text: #0f172a;
   --background: #ffffff;
-  --background-alt: #fafafa;
-  --light-gray: #e0e0e0;
-  --gray: #808080;
-  --dark-gray: #404040;
-  --overlay: #00000020;
+  --background-alt: #f4f6fb;
+  --light-gray: #e2e8f0;
+  --gray: #64748b;
+  --dark-gray: #334155;
+  --overlay: #0a1f5c18;
 }
 [data-dark="true"] {
-  --primary: #0795d9;
-  --secondary: #075985;
-  --text: #ffffff;
-  --background: #181818;
-  --background-alt: #1c1c1c;
-  --light-gray: #404040;
-  --gray: #808080;
-  --dark-gray: #b0b0b0;
-  --overlay: #ffffff10;
+  --primary: #60a5fa;
+  --secondary: #1e3a8a;
+  --accent: #22d3ee;
+  --accent-2: #e879f9;
+  --navy: #0a1f5c;
+  --text: #f1f5f9;
+  --background: #0b1226;
+  --background-alt: #0f1830;
+  --light-gray: #1e293b;
+  --gray: #94a3b8;
+  --dark-gray: #cbd5e1;
+  --overlay: #00000040;
 }
 
 :root {
   // font families
-  --title: "Barlow", sans-serif;
-  --heading: "Barlow", sans-serif;
-  --body: "Barlow", sans-serif;
+  --title: "Space Grotesk", sans-serif;
+  --heading: "Space Grotesk", sans-serif;
+  --body: "Inter", sans-serif;
   --code: "Roboto Mono", monospace;
 
   // font sizes
   --large: 1.2rem;
   --xl: 1.4rem;
-  --xxl: 1.6rem;
+  --xxl: 1.8rem;
 
   // font weights
-  --thin: 200;
+  --thin: 300;
   --regular: 400;
   --semi-bold: 500;
-  --bold: 600;
+  --bold: 700;
 
   // text line spacing
-  --spacing: 2;
+  --spacing: 1.8;
   --compact: 1.5;
 
   // effects
-  --rounded: 3px;
-  --shadow: 0 0 10px 0 var(--overlay);
+  --rounded: 10px;
+  --shadow: 0 4px 18px 0 var(--overlay);
   --transition: 0.2s ease;
+  --gradient: linear-gradient(90deg, #22d3ee, #6366f1 50%, #d946ef);
 }

@@ -1,2 +1,162 @@
-- id: doi:10.1109/FIE61694.2024.10893172
+# Manually curated publications.
+# - Entries with a DOI `id` are filled in automatically by Manubot; any fields
+#   given here (tags, type, etc.) override/extend what Manubot returns.
+# - Entries with an `id` matching an ORCID result are merged with it (ids must
+#   match exactly, so use lowercase DOIs as ORCID returns them).
+# - Entries without an `id` must supply title/authors/publisher/date/link.
+# - `remove: true` drops a bad entry pulled in from ORCID.
+# Tags: nlp, cybersecurity, health, education, hci, xr, data-science
+
+# ---------- 2026 ----------
+
+- id: doi:10.1007/978-3-032-16451-3_6
   type: paper
+  publisher: Computer-Human Interaction Research and Applications (CHIRA), Springer CCIS
+  tags: [nlp, xr, hci]
+
+# ---------- 2025 ----------
+
+- id: doi:10.1109/icdmw69685.2025.00010
+  type: paper
+  tags: [health, data-science]
+
+- id: doi:10.1093/geroni/igaf122.4313
+  type: paper
+  tags: [health, data-science]
+
+- id: doi:10.1109/fie63693.2025.11328667
+  type: paper
+  tags: [cybersecurity, education, nlp]
+
+- id: doi:10.5281/zenodo.17315022
+  type: paper
+  title: Using Machine Learning to Enhance Early Intervention in Juvenile Justice through Survey Optimization
+  authors:
+    - Nathan Green
+    - Erik Alda
+  publisher: Empirical Economics Letters
+  date: 2025-09-01
+  link: https://doi.org/10.5281/zenodo.17315022
+  tags: [data-science]
+
+# ---------- 2024 ----------
+
+- id: doi:10.1109/fie61694.2024.10893172
+  type: paper
+  tags: [cybersecurity, education, data-science]
+
+- id: doi:10.1021/acs.jchemed.4c00470
+  type: paper
+  title: "The Online Version of CHEMCompete-II: An Organic Chemistry Card Game to Differentiate Between Substitution and Elimination Reactions of Alcohols"
+  tags: [education]
+
+# ---------- 2023 ----------
+
+- id: doi:10.1109/FIE58773.2023.10343001
+  type: paper
+  tags: [xr, education]
+
+- type: paper
+  title: Sentiment and Topic Modeling Analysis of Reddit Posts on Changing One's Major
+  authors:
+    - Nathan Green
+    - Karen Works
+  publisher: Journal of Computing Sciences in Colleges, 39(5)
+  date: 2023-11-01
+  link: https://dl.acm.org/doi/abs/10.5555/3637068.3637069
+  tags: [nlp, education]
+
+- type: paper
+  title: "The Hunt for Cybersecurity Data: Exploring the Availability of Open Datasets for Cybersecurity Scientific Research"
+  authors:
+    - Michelle Liu
+    - Diane Murphy
+    - Nathan Green
+  publisher: Journal of Computing Sciences in Colleges, 39(3)
+  date: 2023-10-01
+  link: https://dl.acm.org/doi/abs/10.5555/3636988.3637015
+  tags: [cybersecurity, data-science]
+
+- type: paper
+  title: Commonalities of Users Influenced and Not Influenced by Persuasive Communication in Human Robot Interactions
+  authors:
+    - Nathan Green
+    - Karen Works
+  publisher: Journal of Computing Sciences in Colleges, 38(5)
+  date: 2023-01-01
+  link: https://dl.acm.org/doi/abs/10.5555/3581625.3581627
+  tags: [hci, nlp]
+
+- type: paper
+  title: Are Research Trends in the Consortium for Computing Sciences in Colleges Regionalized?
+  authors:
+    - Nathan Green
+    - Karen Works
+  publisher: Journal of Computing Sciences in Colleges, 38(3)
+  date: 2023-01-01
+  link: https://dl.acm.org/doi/abs/10.5555/3580523.3580528
+  tags: [nlp, education]
+
+# ---------- 2022 ----------
+
+- id: doi:10.1145/3564533.3564571
+  type: paper
+  tags: [nlp, xr]
+
+- id: doi:10.1109/HRI53351.2022.9889306
+  type: paper
+  tags: [hci, nlp]
+
+- type: paper
+  title: "FactRep: A Machine Learning Resource for Identifying and Analyzing Misinformation During the COVID-19 Pandemic"
+  authors:
+    - Nathan Green
+    - Septina Larasati
+    - Daniel Duro
+    - Diane Murphy
+    - Kathryn Laskey
+  publisher: Proceedings of the 51st Annual Meeting of the Southeast Decision Sciences Institute (SEDSI)
+  date: 2022-02-01
+  link: https://www.sedsi.org/_files/ugd/f590f6_475fc3da9f904956a4e1b289745b6f4a.pdf#page=618
+  tags: [nlp, health, data-science]
+
+- type: paper
+  title: Constructing Language Resources for Fashion Merchandising Majors for a Generalized AI Curriculum
+  authors:
+    - Nathan Green
+    - Jennifer Yang
+  publisher: Proceedings of the 51st Annual Meeting of the Southeast Decision Sciences Institute (SEDSI)
+  date: 2022-02-01
+  link: https://www.sedsi.org/_files/ugd/f590f6_475fc3da9f904956a4e1b289745b6f4a.pdf#page=324
+  tags: [nlp, education]
+
+# ---------- earlier ----------
+
+- id: doi:10.19030/jabr.v36i3.10348
+  type: paper
+  authors:
+    - Faleh Alshameri
+    - Nathan Green
+  tags: [nlp, data-science]
+
+- type: paper
+  title: Using an Electronic Resume Analyzer Portal (e-RAP) to Improve College Graduates' Employability
+  authors:
+    - Nathan Green
+    - Michelle Liu
+    - Diane Murphy
+  publisher: Information Systems Education Journal, 18(4)
+  date: 2020-08-01
+  link: https://eric.ed.gov/?id=EJ1258209
+  tags: [nlp, education]
+
+# ---------- junk pulled in from ORCID ----------
+
+- id: issn:1937-4771
+  remove: true
+
+- id: issn:1545-679X
+  remove: true
+
+- id: issn:EISSN-1545-679X
+  remove: true

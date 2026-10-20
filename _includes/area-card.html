@@ -1,0 +1,13 @@
+<a
+  class="area-card"
+  {% if include.link %}
+    href="{{ include.link | relative_url | replace: '"', '%22' }}"
+  {% endif %}
+>
+  {% include icon.html icon=include.icon %}
+  <span class="area-title">{{ include.title }}</span>
+  <p class="area-text">{{ include.text }}</p>
+  {% if include.link %}
+    <span class="area-link">{{ include.cta | default: "See papers" }} →</span>
+  {% endif %}
+</a>

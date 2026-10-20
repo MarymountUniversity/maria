@@ -8,4 +8,4 @@ links:
   google-scholar: EA7pS0wAAAAJ
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Dr. Andy Hall's research spans operations research, cyber workforce planning, cryptography, and cybersecurity education. He advises doctoral students in Marymount's D.Sc. in Cybersecurity program on topics ranging from critical-infrastructure resilience to adversarial AI.
