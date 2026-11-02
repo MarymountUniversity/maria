@@ -1,18 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.12688/f1000research.162834.2
-  title: Technology Support Fraud Analysis for the Elderly
-  authors:
-  - Mimi Enakome Oka
-  - Martin Hromada
-  - Diane Murphy
-  - Alex Mbaziira
-  publisher: F1000Research
-  date: '2026-09-07'
-  link: https://doi.org/hcjgzg
-  orcid: 0000-0002-1360-3578
-  plugin: orcid.py
-  file: orcid-diane.yaml
 - id: doi:10.1007/978-3-032-16451-3_6
   title: "Improving Communication in\_the\_Metaverse Using 3-Dimensional Space for\_\
     LLM and\_Autocomplete Integration"
@@ -251,6 +238,19 @@
   orcid: 0000-0002-5312-1426
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.12688/f1000research.162834.2
+  title: Technology Support Fraud Analysis for the Elderly
+  authors:
+  - Mimi Enakome Oka
+  - Martin Hromada
+  - Diane Murphy
+  - Alex Mbaziira
+  publisher: F1000Research
+  date: '2026-09-07'
+  link: https://doi.org/hcjgzg
+  orcid: 0000-0002-1360-3578
+  plugin: orcid.py
+  file: orcid-diane.yaml
 - id: doi:10.1109/FIE63693.2025.11328286
   title: 'WIP: Decoding Cybersecurity: An Ethnographic Case Study of Cybersecurity
     Awareness Education'
