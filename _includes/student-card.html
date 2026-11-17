@@ -1,9 +1,14 @@
-<div class="student-entry" style="padding: 0.5em 0; border-bottom: 1px solid #ccc;">
-  {% if include.name %}
-    <strong>{{ include.name }}</strong>
-    {% if include.advisor %}, advised by {{ include.advisor }}{% endif %}
-    {% if include.topic %}<br><em>Research Area:</em> {{ include.topic }}{% endif %}
+<article class="thesis-card">
+  <div class="thesis-card-meta">
+    <span class="thesis-card-status" data-status="progress">
+      {% include icon.html icon="fa-solid fa-hourglass-half" %}In progress
+    </span>
+  </div>
+  {% if include.name %}<h3 class="thesis-card-title">{{ include.name }}</h3>{% endif %}
+  {% if include.topic %}
+    <p class="thesis-card-topic">{{ include.topic }}</p>
   {% else %}
-    <em>Missing student data</em>
+    <p class="thesis-card-topic thesis-card-muted">Topic forthcoming</p>
   {% endif %}
-</div>
+  {% if include.advisor %}<p class="thesis-card-advisor">Chair: {{ include.advisor }}</p>{% endif %}
+</article>

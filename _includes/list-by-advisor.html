@@ -1,6 +1,7 @@
 {% assign emptyarray = "" | split: "," %}
 {% assign entries = site.data[include.data] | default: site[include.data] | default: emptyarray %}
 
+<div class="thesis-grid">
 {% for entry in entries %}
   {% include {{ include.component | append: ".html" }}
     name=entry.name
@@ -11,3 +12,4 @@
     date=entry.date
   %}
 {% endfor %}
+</div>

@@ -9,6 +9,14 @@ nav:
 
 A partial list of published works from our faculty and students from the MARIA lab
 
+{%
+  include button.html
+  link="https://workwander.tech/conference/"
+  text="Find upcoming conferences"
+  icon="fa-solid fa-calendar-days"
+  style="bare"
+%}
+
 {% include section.html %}
 
 ## Highlighted

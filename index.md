@@ -60,7 +60,7 @@ See what areas our past and current doctoral students have been working in!
 
 {% capture text %}
 
-The lab consists of researchers from undergraduate, masters, docorate levels as well as full-time faculty and affialiate faculty.
+The lab consists of researchers from undergraduate, masters, doctorate levels as well as full-time faculty and affiliate faculty.
 
 {%
   include button.html

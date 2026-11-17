@@ -1,2 +1,78 @@
 - id: doi:10.1109/FIE61694.2024.10893172
   type: paper
+
+# junk ISSN records pulled from ORCID; keep them off the Research page
+- id: issn:1937-4771
+  remove: true
+
+- id: issn:1545-679X
+  remove: true
+
+- id: issn:EISSN-1545-679X
+  remove: true
+
+# publications since 2024 not picked up from ORCID (from Nathan's CV, dates from Crossref/Zenodo)
+
+- type: paper
+  id: doi:10.1007/978-3-032-16451-3_6
+  title: Improving Communication in the Metaverse Using 3-Dimensional Space for LLM and Autocomplete Integration
+  authors:
+  - Nathan Green
+  publisher: Computer-Human Interaction Research and Applications (CHIRA 2025), Springer
+  date: '2026-02-11'
+  link: https://doi.org/10.1007/978-3-032-16451-3_6
+
+- type: paper
+  id: doi:10.31274/itaa.21889
+  title: Reddit Users' Perception of Sustainability in Fashion
+  authors:
+  - Jennifer Yang
+  - Nathan Green
+  - Andrew Hall
+  publisher: International Textile and Apparel Association (ITAA) Annual Conference Proceedings
+  date: '2026-01-01'
+  link: https://doi.org/10.31274/itaa.21889
+
+- type: paper
+  id: doi:10.1093/geroni/igaf122.4313
+  title: Utilizing Human-in-the-Loop AI Predictions to Prescribe Personalized Falls Prevention Programs
+  authors:
+  - Mahederemariam Dagne
+  - Nathan Green
+  - Diane Murphy
+  - Patricia Heyn
+  publisher: Innovation in Aging (GSA 2025 Annual Scientific Meeting)
+  date: '2025-12-01'
+  link: https://doi.org/10.1093/geroni/igaf122.4313
+
+- type: paper
+  id: doi:10.1109/ICDMW69685.2025.00010
+  title: Synthetic Gait Video Dataset Generation for Privacy-Preserving Gait Disorder Analysis
+  authors:
+  - Oluwatomisin Giwamogorewa
+  - Julie D. Ries
+  - Nathan Green
+  publisher: 2025 IEEE International Conference on Data Mining Workshops (ICDMW)
+  date: '2025-11-12'
+  link: https://doi.org/10.1109/ICDMW69685.2025.00010
+
+- type: paper
+  id: doi:10.1109/FIE63693.2025.11328667
+  title: 'WIP: Defining Research Trends in Cybersecurity to Guide Doctoral Student Research'
+  authors:
+  - Diane Murphy
+  - Nathan Green
+  - Donna Schaeffer
+  publisher: 2025 IEEE Frontiers in Education Conference (FIE)
+  date: '2025-11-02'
+  link: https://doi.org/10.1109/FIE63693.2025.11328667
+
+- type: paper
+  id: doi:10.5281/zenodo.17315022
+  title: Using Machine Learning to Enhance Early Intervention in Juvenile Justice through Survey Optimization
+  authors:
+  - Nathan Green
+  - Erik Alda
+  publisher: Empirical Economics Letters
+  date: '2025-09-10'
+  link: https://doi.org/10.5281/zenodo.17315022

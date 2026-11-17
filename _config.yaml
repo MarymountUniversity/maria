@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: MARIA
 subtitle: Marymount Applied Research in Artificial Intelligence
-description: Marymount's research lab for all things AI, ML, NLP and Dats Science
+description: Marymount's research lab for all things AI, ML, NLP and Data Science
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false

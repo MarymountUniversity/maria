@@ -1,8 +1,42 @@
-- name: Mazin Abbas
+- name: Yaw Afuakwah
   advisor: Dr. Nathan Green
-  topic: Evaluating the Impact of IAM Implementations
+  topic: "Governing Non-Human Identities in Agentic AI Cloud Environments: A Qualitative Study of Cybersecurity Governance, Risk, and Compliance Practices"
+
+- name: Mohammed Almuthaybiri
+  advisor: Dr. Nathan Green
+  topic: "Cybersecurity in the Age of Artificial Intelligence: Executive Leadership Navigating Strategic Risks, Economic Opportunities, and Global Power Shifts"
 
 - name: Dustin Bade
   advisor: Dr. Nathan Green
-  topic: Reliable Audio Deepfake Detection for Mobile Devices
+  topic: "Creating Reliable Real-Time Mobile Device Audio Deepfake Detection"
 
+- name: William Conn
+  advisor: Dr. Nathan Green
+  topic: "Deepfake Detection for Democratic Integrity"
+
+- name: Demetris Council
+  advisor: Dr. Nathan Green
+  topic: "Post-Quantum Identity Enforcement in Zero Trust Systems: A Quantitative Evaluation of Identity Resilience and Trust Continuity"
+
+- name: Oluwatomisin Giwamogorewa
+  advisor: Dr. Nathan Green
+  topic: "An Experimental Study: Using Agentic AI to Build Cyber Resilience by Integrating Threat Intelligence for Enhanced Risk Management and Compliance in Healthcare"
+
+- name: Hector Gramajo
+  advisor: Dr. Nathan Green
+
+- name: Chrissa Lyons
+  advisor: Dr. Nathan Green
+  topic: "Organizational AI-Related Cybersecurity Adoption and Cybersecurity Performance: A Quantitative Correlational Analysis"
+
+- name: Joseph Malloy
+  advisor: Dr. Nathan Green
+  topic: "Case Study: AI-Driven Support and Third-Party Risk Management Assessments"
+
+- name: Aryeh Newman
+  advisor: Dr. Nathan Green
+  topic: "Real-Time Detection Mechanisms of Adversarial Machine Learning Attacks"
+
+- name: Taylor Stonelake
+  advisor: Dr. Nathan Green
+  topic: "Detecting the Enemy Within: A Machine Learning Approach to Insider Threats Using Behavioral Data"
