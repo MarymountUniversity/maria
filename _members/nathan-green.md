@@ -12,6 +12,8 @@ links:
   home-page: https://nathangreen.com
   orcid: 0000-0002-5312-1426
   google-scholar: 76LU144AAAAJ
+  github: ndgreen
+  linkedin: nathandavidgreen
 ---
 
 Dr. Nathan Green is an Associate Professor of Computer Science at Marymount University and Director of the MARIA lab. With a Ph.D. in Natural Language Processing earned in 2013, Dr. Green brings over a decade of experience in machine learning, NLP, and data science. His research explores topics such as sentiment analysis, ensemble methods for classification, model robustness under label noise, and interpretability in AI systems. He is particularly interested in applying AI technologies to under-resourced languages. He has published NLP research in Czech, Indonesian, Tamil, Icelandic and is currently working on research in Nepali.

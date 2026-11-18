@@ -2,21 +2,22 @@
 title: Doctoral
 nav:
   order: 3
-  tooltip: Doctoral students and theses
+  tooltip: Doctoral students and completed theses
 ---
 
 # {% include icon.html icon="fa-solid fa-graduation-cap" %}Doctoral Research
 
-MARIA mentors doctoral students in Marymount's D.Sc. in Cybersecurity program, with dissertations applying AI and machine learning to security, privacy, and trust.
+MARIA faculty advise students in Marymount's Doctor of Science (D.Sc.) in Cybersecurity program,
+many of whom bring problems directly from industry and government into applied AI research.
 
 {% include section.html %}
 
-## Current Doctoral Students ({{ site.data.doctoral_students | size }})
+## Current doctoral students
 
 {% include list-by-advisor.html component="student-card" data="doctoral_students" %}
 
 {% include section.html %}
 
-## Completed Dissertations ({{ site.data.theses | size }})
+## Completed theses
 
 {% include list-by-advisor.html component="thesis-card" data="theses" %}

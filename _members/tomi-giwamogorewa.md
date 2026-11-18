@@ -3,6 +3,8 @@ name: Tomi Giwamogorewa
 image: images/Oluwatomisin.png
 description: Doctoral Research for AIM-AHEAD
 role: dsc
+group: students
+affiliation: Marymount University
 links:
   email: oag89798@marymount.edu
 ---

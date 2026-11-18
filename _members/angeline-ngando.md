@@ -1,6 +1,6 @@
 ---
 name: Angeline Blandine Ngando
-image: images/photo.jpg
+image: images/avatar.svg
 description: Undergraduate AI Researcher
 role: undergrad
 group: students
@@ -8,4 +8,4 @@ links:
   email: aen64491@marymount.edu
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Angeline is an undergraduate researcher in the MARIA lab.
