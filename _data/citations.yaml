@@ -251,19 +251,22 @@
   orcid: 0000-0002-5312-1426
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/FIE49875.2021.9637127
-  title: Integrating Andragogy Theory into a Multidisciplinary Curriculum to Achieve
-    a Connected Program for a Doctorate in Cybersecurity
+- id: doi:10.31274/itaa.21889
+  title: Reddit Users' Perception of Sustainability in Fashion
   authors:
+  - Jennifer Yang
+  - Nathan Green
   - Andrew Hall
-  - Xiang Michelle Liu
-  - Diane Murphy
-  publisher: 2021 IEEE Frontiers in Education Conference (FIE)
-  date: '2021-10-13'
-  link: https://doi.org/g9tpzg
-  orcid: 0000-0002-8083-806X
-  plugin: orcid.py
-  file: orcid-andy.yaml
+  publisher: International Textile and Apparel Association (ITAA) Annual Conference
+    Proceedings
+  date: '2026-01-01'
+  link: https://doi.org/10.31274/itaa.21889
+  type: paper
+  tags:
+  - nlp
+  - data-science
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.5281/zenodo.17315022
   title: Using Machine Learning to Enhance Early Intervention in Juvenile Justice
     through Survey Optimization
@@ -381,20 +384,5 @@
   tags:
   - nlp
   - education
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.31274/itaa.21889
-  type: paper
-  title: Reddit Users' Perception of Sustainability in Fashion
-  authors:
-  - Jennifer Yang
-  - Nathan Green
-  - Andrew Hall
-  publisher: International Textile and Apparel Association (ITAA) Annual Conference Proceedings
-  date: '2026-01-01'
-  link: https://doi.org/10.31274/itaa.21889
-  tags:
-  - nlp
-  - data-science
   plugin: sources.py
   file: sources.yaml
